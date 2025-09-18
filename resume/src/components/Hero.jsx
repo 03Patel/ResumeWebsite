@@ -12,13 +12,7 @@ function Hero() {
         >
           Contact Me
         </a>
-        <a
-          href="/Ganesh_Ji_Patel_Resume.pdf"
-          download
-          className="bg-transparent border border-white px-6 py-2 rounded-full font-semibold hover:bg-white hover:text-blue-600 transition"
-        >
-          Download CV
-        </a>
+
       </div>
     </section>
   );
