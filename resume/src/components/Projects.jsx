@@ -22,6 +22,50 @@ const projects = [
     link: "https://cartfrontends.onrender.com/", // Replace with your real link
     github: "https://github.com/03Patel/GreenCart", // Replace with repo link
   },
+    {
+    title: "Voting App",
+    tech: "MERN, JWT, MongoDB Atlas",
+    desc: "It will used for voting by taking the name of person",
+    link: "https://votingfrontend-s6sq.onrender.com", // Replace with your real link
+    github: "https://github.com/03Patel/Voting", // Replace with repo link
+  },
+    {
+    title: "MiniHelpdesh App",
+    tech: "MERN, JWT, MongoDB Atlas",
+    desc: "It is basically help desh were you can register your problem and admin will fixed it",
+    link: "https://minihelpdesk.onrender.com/", // Replace with your real link
+    github: "https://github.com/03Patel/MiniHelpDesk", // Replace with repo link
+  },
+    {
+    title: "Payroll Management App",
+    tech: "MERN, JWT, MongoDB Atlas",
+    desc: "It will maintain the salary of the people ",
+    link: "https://frinend.onrender.com/", // Replace with your real link
+    github: "https://github.com/03Patel/Payroll", // Replace with repo link
+  },
+    {
+    title: "Referral App",
+    tech: "MERN, JWT, MongoDB Atlas",
+    desc: "Basically it show all the refferrals and jobs the are posted",
+    link: "https://frontendw-1pr5.onrender.com/", // Replace with your real link
+    github: "https://github.com/03Patel/Referrals", // Replace with repo link
+  },
+    {
+    title: "HomePage App",
+    tech: "MERN, JWT, MongoDB Atlas",
+    desc: "It is the HomePage or landing page ",
+    link: "https://homepage-6k9r.onrender.com", // Replace with your real link
+    github: "https://github.com/03Patel/HomePage", // Replace with repo link
+  },
+    {
+    title: "Notes App",
+    tech: "MERN, JWT, MongoDB Atlas",
+    desc: "IN this used Otp to login and add your notes ",
+    link: "https://frontendnotes-vn2x.onrender.com", // Replace with your real link
+    github: "https://github.com/03Patel/Notes", // Replace with repo link
+  },
+    
+  
 ];
 
 function Projects() {
